@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Muhammad Yousaf Portfolio",
     type: "website",
-    url: "https://muhammad-yousaf-portfolio.vercel.app/",
+    url: "https://muhammad-yousaff-github-io.vercel.app/",
   },
 };
 
