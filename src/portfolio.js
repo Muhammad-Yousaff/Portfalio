@@ -214,7 +214,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://github.com/Muhammad-Yousaff",
     },
     {
       siteName: "Codeforces",
@@ -230,7 +230,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://github.com/Muhammad-Yousaff",
     },
     {
       siteName: "Kaggle",
