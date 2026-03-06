@@ -28,28 +28,28 @@ class LogoLoader extends React.Component {
 
         <text
           x="220"
-          y="135"
+          y="155"
           textAnchor="middle"
           fill="transparent"
           stroke={theme.body}
-          strokeWidth="3.5"
-          fontSize="80"
+          strokeWidth="6"
+          fontSize="110"
           fontFamily="'Courier New', Courier, monospace"
           fontWeight="900"
           className="myHexagon"
-          letterSpacing="-2"
+          letterSpacing="0"
         >
-          MY
+          M Y
         </text>
 
         <text
           x="220"
-          y="275"
+          y="265"
           textAnchor="middle"
           fill="transparent"
-          stroke={theme.body}
-          strokeWidth="2.5"
-          fontSize="80"
+          stroke={theme.text}
+          strokeWidth="3"
+          fontSize="65"
           fontFamily="'Great Vibes', cursive, sans-serif"
           className="signature"
         >
