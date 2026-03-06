@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Muhammad Yousaf",
-  logo_name: "MuhammadYousaf",
+  logo_name: "Muhammad Yousaf",
   nickname: "muhammad_yousaf",
   subTitle:
     "A passionate Full Stack Developer skilled in Python, Django, React.js, and cloud deployment. I build scalable web applications with modern technologies and best practices.",
